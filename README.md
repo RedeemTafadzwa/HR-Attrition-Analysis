@@ -40,9 +40,9 @@ The analysis focuses on three key areas:
 - Increase **salary hikes & promotions** to reduce turnover.
 
 ## 📂 Repository Contents
-- `HR_Attrition_Report.pdf` – Detailed analysis and insights.
-- `PowerBI_Dashboard.pbix` – Interactive dashboard visualization.
-- `MySQL_Scripts.sql` – SQL queries used for data cleaning and analysis.
+- `HR Attrition.Report.pdf` – Detailed analysis and insights.
+- `HR ATTRITION.dashboard.pbix` – Interactive dashboard visualization.
+- `attrition.project.sql` – SQL queries used for data cleaning and analysis.
 
 ## 📩 Contact
 **Author:** Redeem T. Kadere  
