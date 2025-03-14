@@ -1,7 +1,7 @@
 # HR Attrition Analysis
 
 ## 📌 Project Overview
-This project analyzes the key factors influencing employee attrition using a fictional dataset provided by IBM Data Scientists. The goal is to uncover patterns and provide actionable recommendations to help organizations reduce turnover rates.
+This project analyzes the key factors influencing employee attrition using a fictional dataset provided by IBM Data Scientists( https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset ) .The goal is to uncover patterns and provide actionable recommendations to help organizations reduce turnover rates.
 
 ## 📊 Tools & Technologies Used
 - **Power BI** (for data visualization and dashboard creation)
