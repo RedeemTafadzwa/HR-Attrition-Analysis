@@ -14,7 +14,7 @@ The analysis focuses on three key areas:
 3. **Salary & Performance Analysis** – Evaluating how salary, promotions, and job levels affect employee turnover.
 
 ## 🛠 Data Cleaning
-- No duplicate or null values were found.
+- No duplicate rows or null values were found.
 - Ensured consistent formatting across 36 dataset columns.
 
 ## 🔍 Key Findings & Insights
