@@ -1,2 +1,60 @@
-# HR-Attrition-Analysis
-An indepth analysis on HR Attrition Using MySQL and Power BI.
+# HR Attrition Analysis
+
+## 📌 Project Overview
+This project analyzes the key factors influencing employee attrition using a fictional dataset provided by IBM Data Scientists. The goal is to uncover patterns and provide actionable recommendations to help organizations reduce turnover rates.
+
+## 📊 Tools & Technologies Used
+- **Power BI** (for data visualization and dashboard creation)
+- **MySQL** (for data cleaning and analysis)
+
+## 🎯 Objectives
+The analysis focuses on three key areas:
+1. **Demographic Analysis** – Examining attrition trends based on age, gender, location, and marital status.
+2. **Job & Experience Analysis** – Understanding how job roles, satisfaction, and tenure impact attrition.
+3. **Salary & Performance Analysis** – Evaluating how salary, promotions, and job levels affect employee turnover.
+
+## 🛠 Data Cleaning
+- No duplicate or null values were found.
+- Ensured consistent formatting across 36 dataset columns.
+
+## 🔍 Key Findings & Insights
+### **1. Demographic Analysis**
+- Employees under 25 have the highest attrition rate (40%).
+- Males have a 1.75x higher attrition rate than females.
+- Single employees make up 50% of those who left their jobs.
+
+### **2. Job & Experience Analysis**
+- Employees with less than 5 years at the company have a higher attrition rate.
+- Lab Technicians (26%) and Sales Executives (24%) have the highest turnover.
+- 30% of those who left had very low job satisfaction.
+
+### **3. Salary & Performance Analysis**
+- Employees earning $2,000–$4,000/month have the highest attrition rate (54%).
+- Higher salary hikes are linked to lower attrition rates.
+- Employees in junior job levels leave more frequently.
+
+## ✅ Recommendations
+- Offer **mentorship & career growth programs** for younger employees.
+- Improve **compensation & job benefits** to retain local talent.
+- Address **work-life balance concerns** through policy changes.
+- Increase **salary hikes & promotions** to reduce turnover.
+
+## 📂 Repository Contents
+- `HR_Attrition_Report.pdf` – Detailed analysis and insights.
+- `PowerBI_Dashboard.pbix` – Interactive dashboard visualization.
+- `MySQL_Scripts.sql` – SQL queries used for data cleaning and analysis.
+
+## 📩 Contact
+**Author:** Redeem T. Kadere  
+📧 Email: redeemtkadere@gmail.com  
+
+---
+
+### 🚀 How to Use This Project
+1. Clone the repository.
+2. Open the **Power BI dashboard** to explore interactive insights.
+3. Run the **MySQL scripts** to analyze data on your local database.
+
+Feel free to contribute or reach out with any questions! 💡
+
+
